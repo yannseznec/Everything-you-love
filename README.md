@@ -1,4 +1,4 @@
-# Everything-you-love-will-one-day-be-taken-from-you
+# Everything You Love Will One Day Be Taken From You
 A listening machine that slowly destroys a sound every time it plays back.
 For more background about this instrument: http://www.impracticaldevices.com/volume-3/
 
